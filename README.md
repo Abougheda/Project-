@@ -24,7 +24,8 @@ A map is generated with randomly placed obstacles. The "ON" function is moves th
 # Evaluation 
 
 # Results
-The code has been tested with different initial, target positions and various numbers of obstacles
+The code has been tested with different initial, target positions and various numbers of obstacles<img width="1440" alt="Screen Shot 2022-12-08 at 8 21 19 PM" src="https://user-images.githubusercontent.com/114655121/206535249-a877519c-d300-4774-b561-415c6917d2e2.png">
+
 
 # Further Improvement 
 - when the robot approaches an obstacle it spins around the obstacle and spins around itself, this can be fixed by adjusting the steer angle along with the speed.
