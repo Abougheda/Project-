@@ -1,7 +1,7 @@
 # Project-
 Task 3 Computer Engineering
-Project Description:
-The aim of this project is to design an
+# Project Aim
+The aim of this project is to make the robot not to interact with the obstacles on the map
 
 # Dependancies required and software versions
 
@@ -30,4 +30,9 @@ The code has been tested with different initial, target positions and various nu
 # Limitation and Further Improvement 
 - when the robot approaches an obstacle it spins around the obstacle and spins around itself, this can be fixed by adjusting the steer angle along with the speed.
 - if a random obstacle happens to be right next to the target position, it will loop around itself and not stop at the target
+- limitation of robot colliding with wall and how to fix this issue
 
+# Project contributions
+Ali Abou-Gheda worked on the "ON" and "condition target" functions
+Mohamad Moamen worked on the initializations and imports for the codes
+Kanzy Tawfik worked on the checking obstacles along with the while loop
