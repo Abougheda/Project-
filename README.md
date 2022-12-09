@@ -22,7 +22,7 @@ The code starts with taking input from the user regarding the robot's initial an
 A map is generated with randomly placed obstacles. The "ON" function is moves the target and updates the angle to goal. While ON is running the "detect_obstacles" function is using the readings from the RangeBearingSensor. The object will continue to move until it reaches the target.
 
 # Evaluation 
-
+The robot executes the action in a short amount of time, and avoids the obstacles however, it avoids the obstacle by spinning around it and altering its angle until it reaches the required taregt position and stops.
 # Results
 The code has been tested with different initial, target positions and various numbers of obstacles<img width="1440" alt="Screen Shot 2022-12-08 at 8 21 19 PM" src="https://user-images.githubusercontent.com/114655121/206535249-a877519c-d300-4774-b561-415c6917d2e2.png">
 
